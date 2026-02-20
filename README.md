@@ -1,8 +1,6 @@
 
 Live Demo 
 
-Github Live: https://jeevanantham10082003.github.io/404-ERROR-PAGE-/
-
 Figma Desgin: https://www.figma.com/design/bijq1KZmhpkuMi4jKFrJGI/404-page
 
 # 🚧 404 Error Page – Sculpt UI
